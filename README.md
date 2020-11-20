@@ -13,13 +13,15 @@ To build software you will be travelling around many computers. Networks and con
 
 
 # source control
-You defn want to control your source.
+You will definitely want to control the source.
 
 https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
 
 https://guides.github.com/activities/hello-world/
 
 https://github.com/joejag/coaching-plan/blob/master/tech/vcs/slides/slides.md
+
+https://github.com/sbarlster/developing/git-faq.md
 
 
 # building your source
@@ -41,14 +43,14 @@ Your software will want to run somewhere. And not only on your local machine.
 
 
 # software design principles
-What makes great software?
+What makes great (read working to expected design and maintainable) software?
 Whatever the language or framework, there are some guiding principles that will make your software shine.
 
 > small, single responsibility, abstractions, DI, low dependencies - all driven by testability
 
 
 # your first language
-A short while back I would have said go for Java. It has stood the test of time. 20+ years and is still in wide use. But I am unsure about its suitablility for learning and maybe its time for one of the young guns to take over.
+A short while back I would have said go for Java. It has stood the test of time. 20+ years and is still in wide use. But I am unsure about its suitablility for learning and maybe its time for one of the young(er) guns to take over.
 
 > Go, javascript, typescript, other...
 
