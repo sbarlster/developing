@@ -21,7 +21,7 @@ https://guides.github.com/activities/hello-world/
 
 https://github.com/joejag/coaching-plan/blob/master/tech/vcs/slides/slides.md
 
-https://github.com/sbarlster/developing/git-faq.md
+https://github.com/sbarlster/developing/blob/master/git-faq.md
 
 
 # building your source
