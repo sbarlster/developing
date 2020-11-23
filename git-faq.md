@@ -9,15 +9,14 @@ git add .
 git commit -m "initial set of files"
 ```
 
-Then you have gone to gitlab (other gits are available) and have created a new blank project. You can then get your local code
-up into the remote repo using...
+Then you have gone to gitlab (other gits are available) and have created a new blank project. You can then get your local code into the remote repo using...
 ```
 git push --set-upstream git@gitlab.example.com:namespace/nonexistent-project.git master
 ```
 
 
 ## How do I update my feature branch that has fallen behind master?
-i.e. I did some work a short while back, got bored (was distracted by shinier stuff), went away, and now need to pickup again!
+i.e. I did some work a short while back, got bored (distracted by shiny things), went away, and now need to pickup again!
 
 Run the commands...
 ```
