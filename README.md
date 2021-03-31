@@ -3,7 +3,7 @@ A set of materials useful when learning to develop software. The software (and h
 
 
 # the command line and other tools
-You will spend a lot of time here. So it is worth getting familiar and comfortable with a prompt. You dont need to be a master, just not scared.
+You will spend a lot of time here. So it is worth getting familiar and comfortable with a prompt. You do not need to be a master, just not scared.
 
 
 # other concepts worth knowing about
