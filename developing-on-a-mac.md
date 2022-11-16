@@ -21,8 +21,13 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 You cant get away from the goto language of the web and why would you want to. And once you have JS you
 will then have access to TypeScript too. Node is most likely the runtime you will use for JS.
 
-First a tool to manage versions of node - nvm...
+First a tool to manage versions of node - nvm. Install instructions at: https://github.com/nvm-sh/nvm#install--update-script
 ```
-brew install nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+```
+
+Then install the current version of node...
+```
+nvm install --lts
 ```
 
