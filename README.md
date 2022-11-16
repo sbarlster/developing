@@ -46,7 +46,7 @@ Your software will want to run somewhere. And not only on your local machine.
 What makes great (read working to expected design and maintainable) software?
 Whatever the language or framework, there are some guiding principles that will make your software shine.
 
-> small, single responsibility, abstractions, DI, low dependencies - all driven by testability
+> small, single responsibility, abstractions, immutability, DI, low dependencies - all driven by testability
 
 
 # your first language
